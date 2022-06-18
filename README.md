@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫About Me :
 - 🔭 I’m currently working on a Formula 1 themed Discord Bot
 - 🌱 I’m currently learning  Design theory and Full Stack Development
